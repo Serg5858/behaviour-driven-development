@@ -1,0 +1,1 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/snjti85hk4jovhcn?svg=true)](https://ci.appveyor.com/project/Serg5858/behaviour-driven-development)
